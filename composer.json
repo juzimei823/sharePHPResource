@@ -2,7 +2,7 @@
     "name": "juzimei823/sharephpresource",
     "description": "this is a test",
     "type": "project",
-    "license": "tim",
+    "license": "mit",
     "minimum-stability": "dev",
     "require": {}
 }
